@@ -1,2 +1,2 @@
 # ArchBookdotfiles
-dot files from my samsung chromebook on arch project
+Dot files from my Samsung ChromeBook on Arch Linux ARM project.
